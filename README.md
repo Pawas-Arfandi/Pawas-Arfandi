@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Pawas-Arfandi/Pawas-Arfandi/blob/main/github-header-banner.png" alt="Banner Pawas Arfandi" width="100%">
+  <img src="https://github.com/Pawas-Arfandi/Pawas-Arfandi/blob/main/github-header-banner (1).png" alt="Banner Pawas Arfandi" width="100%">
 </p>
 
 <h1 align="center">Hi there 👋, I'm Pawas Arfandi</h1>
